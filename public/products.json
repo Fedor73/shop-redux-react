@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "title": "Кольцо",
+    "author": "Кольцо тройное «Оберег»",
+    "image": "https://museum-design.ru/wp-content/uploads/Jewelry-for-all-photo-09.jpg",
+    "price": 1000
+  },
+  {
+    "id": 1,
+    "title": "Кольцо",
+    "author": "Кольцо «Изумрудный цветок»",
+    "image": "",
+    "price": 2000
+  },
+  {
+    "id": 2,
+    "title": "Кольцо",
+    "author": "Кольцо «Морская звезда»",
+    "image": "https://monashop.ru/image/cache/data/05/092018/m107-300x300_0.jpg",
+    "price": 3000
+  },
+  {
+    "id": 3,
+    "title": "Браслет",
+    "author": "Браслет из цепочек «Шик и блеск» ",
+    "image": "https://monashop.ru/image/cache/data/05/092018/m0636-300x300_0.jpg",
+    "price": 2000
+  },
+  {
+    "id": 4,
+    "title": "Браслет",
+    "author": "Браслет «Кружево»",
+    "image": "https://monashop.ru/image/cache/data/05/012019/90mb-300x300_0.jpg",
+    "price": 1000
+  },
+  {
+    "id": 5,
+    "title": "Кольцо",
+    "author": "Кольцо «Переплетение» с белыми циркониями",
+    "image": "https://monashop.ru/image/cache/data/05/092018/m96-300x300_0.jpg",
+    "price": 100000
+  }
+]
